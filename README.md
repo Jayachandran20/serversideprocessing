@@ -92,5 +92,8 @@ Take a screenshotof the site and upload it.
 ![output](./images/image1.png)
 ### Home Page:
 ![output](./images/image2.png)
+### Validation:
+![html (1)](https://user-images.githubusercontent.com/118447015/215274384-d50b98ea-abe7-414e-8653-d86ae12547ef.jpg)
+
 ## Result:
 Thus a website is designed to perform mathametical calculation on server side.
